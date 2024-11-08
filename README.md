@@ -122,7 +122,7 @@
 [More themes](https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
 
 
-## Themes
+## Themes Stats Of Streak
 
 |             Theme             |                                                          Preview                                                           |
 | :---------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
