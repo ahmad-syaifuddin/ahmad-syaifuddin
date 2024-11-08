@@ -12,9 +12,9 @@
 
 ### <strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Laravel </br>
+    - :keyboard: I’m currently learning [Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+    </br>
 <p>
- 
 <hr>
 
 <div align="center">
