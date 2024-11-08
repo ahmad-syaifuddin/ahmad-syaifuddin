@@ -42,8 +42,9 @@
 <br>
 
 <div align="center" style="display:flex; justify-content: center;">
+    
 <!-- Stats Of Streak & Top Languages Used -->
-<img src="https://streak-stats.demolab.com/?user=ahmad-syaifuddin&theme=github-light" alt="ahmad-syaifuddin" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-syaifuddin&layout=compact"/>
+<img src="https://streak-stats.demolab.com/?user=ahmad-syaifuddin&theme=black-ice" alt="ahmad-syaifuddin" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-syaifuddin&layout=compact"/>
 
 </div>
 
@@ -99,6 +100,7 @@
 <br>
 
 <div align="center" style="display:flex; justify-content: center;">
+
 <!-- Stats Of Streak & Top Languages Used -->
 <img src="https://streak-stats.demolab.com/?user=your-username&theme=github-light" alt="your-username" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact"/>
 
