@@ -53,8 +53,9 @@
 >Berikut Code untuk Profile Github
 >
 >Tulisan yg "your-username" ganti dengan username github mu
+
 ```css
-# <summary><strong>Hi there :wave: , I'm Your Name!</strong></summary>
+# <summary><strong>Hi there :wave: , I'm Your Name !</strong></summary>
 
 <!-- Profile View Old -->
 <p align="center" ><img align="center" src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
