@@ -35,7 +35,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmad-syaifuddin&show_icons=true&theme=2077"/>
 
 <!-- Ahmad Syaifuddin's GitHub stats-->
-<img src="https://github-readme-stats.vercel.app/api?username=ahmad-syaifuddin&show_icons=true&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmad-syaifuddin&show_icons=true&theme=neon-dark"/>
 
 </div>
 
