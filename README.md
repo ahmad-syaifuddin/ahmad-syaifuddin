@@ -51,6 +51,7 @@
 
 >[!NOTE]
 >Berikut Code untuk Profile Github
+>
 >Tulisan yg "your-username" ganti dengan username github mu
 ```css
 # <summary><strong>Hi there :wave: , I'm Your Name!</strong></summary>
