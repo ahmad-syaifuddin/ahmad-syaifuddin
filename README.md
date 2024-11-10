@@ -98,7 +98,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&show_icons=true&theme=gruvbox"/>
 
 <!-- Ahmad Syaifuddin's GitHub stats-->
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=neon-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox"/>
 
 </div>
 
