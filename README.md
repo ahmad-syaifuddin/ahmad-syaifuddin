@@ -89,13 +89,13 @@
 
 <!-- Graph Gelombang Contributions -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&show_icons=true&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&show_icons=true&theme=gruvbox">
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
 
 <!-- Bar Graph Commits -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&show_icons=true&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&show_icons=true&theme=gruvbox"/>
 
 <!-- Ahmad Syaifuddin's GitHub stats-->
 <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=neon-dark"/>
