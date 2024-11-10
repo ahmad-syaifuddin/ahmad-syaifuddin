@@ -107,7 +107,7 @@
 <div align="center" style="display:flex; justify-content: center;">
 
 <!-- Stats Of Streak & Top Languages Used -->
-<img src="https://streak-stats.demolab.com/?user=your-username&theme=github-light" alt="your-username" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact"/>
+<img src="https://streak-stats.demolab.com/?user=your-username&theme=gruvbox" alt="your-username" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact"/>
 
 </div>
 
