@@ -46,7 +46,7 @@
 <div align="center" style="display:flex; justify-content: center;">
     
 <!-- Stats Of Streak & Top Languages Used -->
-<img src="https://streak-stats.demolab.com/?user=ahmad-syaifuddin&theme=nord" alt="your-username" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-syaifuddin&layout=compact"/>
+<img src="https://streak-stats.demolab.com/?user=ahmad-syaifuddin&theme=ocean-dark" alt="your-username" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-syaifuddin&layout=compact"/>
 
 </div>
 
