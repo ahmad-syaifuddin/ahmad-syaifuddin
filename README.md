@@ -3,6 +3,12 @@
 <!-- Profile View Old -->
 <p align="center" ><img align="center" src="https://komarev.com/ghpvc/?username=ahmad-syaifuddin&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-syaifuddin" /> </p>
 
+# Support me 
+
+[![My saweria](https://img.shields.io/badge/My_saweria-orange?style=plastic)](https://saweria.co/syaifuddins) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://paypal.me/09Ahmad)
+
+<hr>
+
 ### <strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> <br>
