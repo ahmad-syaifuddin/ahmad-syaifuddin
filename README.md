@@ -57,3 +57,5 @@
 </div>
 
 <hr>
+
+![snake gif](https://github.com/ahmad-syaifuddin/ahmad-syaifuddin/blob/output/github-snake-dark.svg)
