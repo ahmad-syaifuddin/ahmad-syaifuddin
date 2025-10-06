@@ -28,7 +28,7 @@
 <div align="center">
 
 <p> <b>Visitors Count 👁️</b> </p>
-<p><img src="https://profile-counter.glitch.me/{ahmad-syaifuddin}/count.svg" /></p>
+<img src="https://profile-counter.deno.dev/ahmad-syaifuddin/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
 
 </div>
 
